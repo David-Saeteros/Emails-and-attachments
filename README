@@ -3,4 +3,4 @@ There are some changes you have to do with the code. Include your own informatio
 Check out this brief tutorial that will explain you most of the code:
 https://medium.com/analytics-vidhya/how-to-send-many-custom-emails-with-pdf-attachments-using-python-ba86bfd757f3
 
-The only changes from these tutorial is that I decided to work with pptx files. Also, I work with a local repository instead of using a folder from Google Drive.
+The only changes from this tutorial is that I decided to work with pptx files. Also, I work with a local repository instead of using a folder from Google Drive.
